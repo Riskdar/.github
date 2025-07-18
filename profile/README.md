@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./logo.png" alt="RiskDar Logo" width="200" height="auto" />
   
-  # RiskDar
+  # Riskdar
   ### AI-Powered Web Security Intelligence Platform
   
   [![Security Score](https://img.shields.io/badge/Security-AI%20Powered-brightgreen)](#)
