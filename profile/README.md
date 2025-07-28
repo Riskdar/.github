@@ -2,7 +2,7 @@
   <img src="./logo.png" alt="RiskDar Logo" width="200" height="auto" />
 
   # Riskdar
-  ### The AI Cyber Risk Intelligence Platform for Insurance Leaders
+  ### AI-First Cyber Insurance Intelligence Platform
 
   [![Security Score](https://img.shields.io/badge/Security-AI%20Powered-brightgreen)](#)
   [![Compliance](https://img.shields.io/badge/Compliance-Multi%20Framework-blue)](#)
